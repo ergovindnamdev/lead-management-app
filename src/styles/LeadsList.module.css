@@ -1,0 +1,17 @@
+.leads-list {
+    margin-top: 20px;
+}
+
+.leads-list h2 {
+    margin-bottom: 10px;
+}
+
+.leads-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.leads-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
